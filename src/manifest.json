@@ -1,0 +1,25 @@
+{
+  "name": "健身助手",
+  "appid": "__UNI__FITNESS",
+  "description": "健身微信小程序 - 肌肉模型展示与训练指南",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "h5": {
+    "title": "健身助手",
+    "router": {
+      "mode": "hash",
+      "base": "./"
+    },
+    "devServer": {
+      "port": 5173
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    },
+    "usingComponents": true
+  }
+}

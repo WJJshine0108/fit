@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationBarTitleText": "健身助手",
+        "navigationBarBackgroundColor": "#1A1A2E",
+        "navigationBarTextStyle": "white",
+        "backgroundColor": "#1A1A2E"
+      }
+    },
+    {
+      "path": "pages/muscle/index",
+      "style": {
+        "navigationBarTitleText": "肌肉详情",
+        "navigationBarBackgroundColor": "#1A1A2E",
+        "navigationBarTextStyle": "white",
+        "backgroundColor": "#1A1A2E"
+      }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationBarTitleText": "个人中心",
+        "navigationBarBackgroundColor": "#1A1A2E",
+        "navigationBarTextStyle": "white",
+        "backgroundColor": "#1A1A2E"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "健身助手",
+    "navigationBarBackgroundColor": "#1A1A2E",
+    "backgroundColor": "#1A1A2E",
+    "backgroundColorTop": "#1A1A2E",
+    "backgroundColorBottom": "#1A1A2E"
+  }
+}
