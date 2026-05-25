@@ -102,7 +102,3 @@ npm run build
 
 - [产品需求文档(PRD)](file:///workspace/.trae/documents/PRD.md)
 - [技术架构文档](file:///workspace/.trae/documents/TechnicalArchitecture.md)
-
-## 📄 许可证
-
-MIT License
